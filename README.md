@@ -3,7 +3,7 @@
 ## 🌱 About Me
 - 🎓 I'm currently studying at **PTIT (Posts and Telecommunications Institute of Technology)**
 - 💻 I’m passionate about **Flask, Python, and full-stack development**
-- 🧠 I also work with **C++, JavaScript, and SQLite3**
+- 🧠 I also work with **C++, Python, and SQLite3**
 - 🤝 I’m open to collaborate on web and software projects
 
 ---
